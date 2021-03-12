@@ -1,0 +1,5 @@
+<jmapper>
+    <class name="com.irpan.projek.laundry.entity.User">
+        <global/>
+    </class>
+</jmapper>

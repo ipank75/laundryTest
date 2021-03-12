@@ -1,0 +1,5 @@
+<jmapper>
+    <class name="com.irpan.projek.laundry.dto.UserDTO">
+        <global/>
+    </class>
+</jmapper>
